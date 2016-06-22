@@ -3,11 +3,18 @@
 	"ignore": "test",
 	"package": [
 		{
+			"checksumSHA1": "fP57pJ6TZlJ+xwZW/70wEwqVeHc=",
+			"path": "github.com/jteeuwen/go-bindata",
+			"revision": "a0ff2567cfb70903282db057e799fd826784d41d",
+			"revisionTime": "2015-10-23T09:11:02Z",
+			"tree": true
+		},
+		{
 			"checksumSHA1": "OMHaPMmgFerZ8ginykZAXcU4Fss=",
 			"path": "github.com/urfave/cli",
 			"revision": "4205e9c4ee9672a8df5bb4fe486a8aa07e1e4037",
 			"revisionTime": "2016-06-22T14:55:33Z"
 		}
 	],
-	"rootPath": "github.com/nmiyake/govendorlibrary"
+	"rootPath": "github.com/nmiyake/govendortest"
 }
