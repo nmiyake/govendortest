@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "OMHaPMmgFerZ8ginykZAXcU4Fss=",
+			"path": "github.com/urfave/cli",
+			"revision": "4205e9c4ee9672a8df5bb4fe486a8aa07e1e4037",
+			"revisionTime": "2016-06-22T14:55:33Z"
+		}
+	],
+	"rootPath": "github.com/nmiyake/govendorlibrary"
+}
