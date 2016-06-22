@@ -1,4 +1,4 @@
-package main
+package govendortest
 
 import (
   "fmt"
@@ -8,7 +8,7 @@ import (
   "github.com/jteeuwen/go-bindata"
 )
 
-func main() {
+func PublicFunc() {
   cli.NewApp().Run(os.Args)
   asset := bindata.Asset{}
   fmt.Println(asset)
